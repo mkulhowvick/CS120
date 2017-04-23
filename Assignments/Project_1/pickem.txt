@@ -1,0 +1,6 @@
+Playoff Teams      : FlipSid3 Tactics, fnatic, Natus Vincere, SK Gaming, Team Liquid, Virtus.pro, G2 Esports, GODSENT
+Advance 3-0        : Virtus.pro
+Eliminated 0-3     : OpTic Gaming
+Quarterfinal Teams : fnatic, Natus Vincere, SK Gaming, Virtus.pro
+Semifinal Teams    : fnatic, Virtus.pro
+Grand Final Team   : Virtus.pro

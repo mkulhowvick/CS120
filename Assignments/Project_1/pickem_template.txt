@@ -1,0 +1,6 @@
+Playoff Teams      : Team1, Team2, Team3, Team4, Team5, Team6, Team7, Team8
+Advance 3-0        : Team1
+Eliminated 0-3     : Team2
+Quarterfinal Teams : Team1, Team2, Team3, Team4
+Semifinal Teams    : Team1, Team2
+Grand Final Team   : Team1
